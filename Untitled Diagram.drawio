@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T14:10:20.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="PIWq4bFAMflilGmEqXQS" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T14:10:56.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="zN2W6MfsUvVQPmhjMCs0" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
     <mxGraphModel dx="3020" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
           <mxGeometry x="283.5" y="818" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---224" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-837" y="535" width="507" height="411" as="geometry" />
+          <mxGeometry x="-837" y="535" width="497" height="411" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---225" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-819" y="546" width="40" height="38" as="geometry" />
@@ -377,7 +377,7 @@
         <mxCell id="tkWagDDuJBjmrLa6oy---234" value="Users should be logged in" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768.5" y="556" width="327.5" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---235" value="logged In request will come to AWS Amplify, on that UI component will be hosted." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tkWagDDuJBjmrLa6oy---235" value="logged In request will come to the AWS Amplify, where UI component will be hosted." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768" y="596" width="368" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---236" value="User is validated through SSO using AWS Cognito and Azure AD." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
