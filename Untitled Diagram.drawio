@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T10:49:05.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="9virego-ibONdEEZ6DZs" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T10:50:05.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="JzBylso0r8X0OhjJXGUN" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
-    <mxGraphModel dx="4470" dy="2305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="1456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,8 +299,8 @@
         <mxCell id="tkWagDDuJBjmrLa6oy---171" value="API gateway will be requested through DPGW by Amplfy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-237" y="132.5" width="113.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---172" value="&lt;span&gt;Using SAML&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="317" width="90" height="27" as="geometry" />
+        <mxCell id="tkWagDDuJBjmrLa6oy---172" value="&lt;span&gt;Using SAML(SSO)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="321" width="90" height="23" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---173" value="Consuming API gateway endpoints" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="317" width="113.5" height="20" as="geometry" />
