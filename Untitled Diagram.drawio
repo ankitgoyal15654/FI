@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T12:39:04.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="g4hu8XC4W7lIcM4M8eav" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T14:07:56.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="QrzS2BgGFfAD7T_45xCH" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
-    <mxGraphModel dx="2568" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3020" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,20 +377,20 @@
         <mxCell id="tkWagDDuJBjmrLa6oy---234" value="Users should be logged in" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768.5" y="556" width="327.5" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---235" value="logged In request will come to AWS Amplify on that UI component will be hosted." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tkWagDDuJBjmrLa6oy---235" value="logged In request will come to AWS Amplify, on that UI component will be hosted." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768" y="596" width="368" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---236" value="User is validated through SSO using AWS Cognito and Azure AD." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-766.62" y="655.25" width="387.5" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---237" value="letters would be uploaded to S3." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tkWagDDuJBjmrLa6oy---237" value="letters will be uploaded to S3 through Amplify" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768" y="707.16" width="357.5" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---238" value="Lambda request for logos through API gateway" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tkWagDDuJBjmrLa6oy---238" value="Lambda request for logos through IBM DPGW" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768" y="757.16" width="357.5" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---239" value="Logos get send to QC engine for processing the logos through IBM DPGW and firewall." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-768" y="796.35" width="348.5" height="39" as="geometry" />
+        <mxCell id="tkWagDDuJBjmrLa6oy---239" value="Logos get send to QC engine for validating logos." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-766.62" y="802.66" width="348.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---240" value="Custom code in Fargate pulls letters from S3 and validate each letter with respect to the logos and rules saved in DynamoDB." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-766.62" y="849.5" width="408.5" height="37.5" as="geometry" />
