@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T14:11:56.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="xgPvpwMCLBZYSZNPjNVq" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T14:14:08.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="aUqxu3pSdahyXZTlxOcA" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
-    <mxGraphModel dx="3900" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,7 +386,7 @@
         <mxCell id="tkWagDDuJBjmrLa6oy---237" value="letters will be uploaded to S3 through Amplify" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768" y="707.16" width="357.5" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---238" value="Lambda request for logos are through IBM DPGW" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tkWagDDuJBjmrLa6oy---238" value="Lambda request for logos will be through IBM DPGW" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768" y="757.16" width="357.5" height="31" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---239" value="Logos will be sent to QC engine for validation." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
