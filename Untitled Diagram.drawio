@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T10:18:55.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="Dhg2qCivqMljSOpBTt2h" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T10:20:08.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="X-zW-FjOzjWOkrFbmOEt" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
-    <mxGraphModel dx="3004" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3283" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="428" y="323" width="360" height="210" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---102" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-389" y="260" width="115" height="350" as="geometry" />
+          <mxGeometry x="-389" y="260" width="115" height="450" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---103" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
           <mxGeometry x="602.99" y="707.16" width="140.17" height="100" as="geometry" />
@@ -382,6 +382,9 @@
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---192" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;MCO: Production -&lt;br&gt;PHI/PII&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;- All Internet traffic to/from AWS goes through on&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;premise security controls.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;- All networks traffic is HTTPS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1040.5" y="69" width="770" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tkWagDDuJBjmrLa6oy---193" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;strokeColor=#FFB366;fillColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="-371.78" y="616.4" width="77.4" height="67.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
