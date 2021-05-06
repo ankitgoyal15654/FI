@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T10:20:08.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="X-zW-FjOzjWOkrFbmOEt" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T10:24:06.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="7EiG5k10Ly54R4FwPLjG" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
-    <mxGraphModel dx="3283" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3916" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,23 +356,14 @@
         <mxCell id="tkWagDDuJBjmrLa6oy---182" value="only authenticated user can log in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-125" y="447.5" width="85" height="35.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-361.93000000000006" y="102" as="sourcePoint" />
-            <mxPoint x="-250" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-250" y="102" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---184" value="logos/other data information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-453.47" y="75" width="120" height="60" as="geometry" />
+          <mxGeometry x="-393.88" y="759.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---185" value="On premises data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-432.26000000000005" y="147.5" width="73.38" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---186" value="data from CVS&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-333.47" y="110" width="73.38" height="20" as="geometry" />
+          <mxGeometry x="-496" y="658" width="73.38" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---187" value="On premises data through DPGW&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-233" y="258.58" width="100" height="20" as="geometry" />
@@ -381,10 +372,29 @@
           <mxGeometry x="-250" y="286.5" width="90" height="27" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---192" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;MCO: Production -&lt;br&gt;PHI/PII&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;- All Internet traffic to/from AWS goes through on&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;premise security controls.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;- All networks traffic is HTTPS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1040.5" y="69" width="770" height="290" as="geometry" />
+          <mxGeometry x="-1230" y="23.5" width="770" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tkWagDDuJBjmrLa6oy---195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tkWagDDuJBjmrLa6oy---193" target="tkWagDDuJBjmrLa6oy---144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-540" y="646" />
+              <mxPoint x="-540" y="180" />
+              <mxPoint x="-250" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---193" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;strokeColor=#FFB366;fillColor=#003366;" vertex="1" parent="1">
-          <mxGeometry x="-371.78" y="616.4" width="77.4" height="67.2" as="geometry" />
+          <mxGeometry x="-371.78" y="612.4" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="tkWagDDuJBjmrLa6oy---197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tkWagDDuJBjmrLa6oy---194" target="tkWagDDuJBjmrLa6oy---184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkWagDDuJBjmrLa6oy---194" value="CVS Data center" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-361" y="678" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tkWagDDuJBjmrLa6oy---198" value="Datacenter contains" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="726.5" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
