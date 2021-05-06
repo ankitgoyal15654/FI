@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T14:21:54.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="_d8ayzCq1o8de8UqtpwZ" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T14:22:20.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="OKvaOImAocIBGng01N0G" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
-    <mxGraphModel dx="6100" dy="2820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,13 +377,13 @@
         <mxCell id="tkWagDDuJBjmrLa6oy---234" value="Users should be logged in" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768.5" y="556" width="327.5" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---235" value="logged In request will come to the AWS Amplify, where UI component will be hosted." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tkWagDDuJBjmrLa6oy---235" value="Logged In request will come to the AWS Amplify, where UI component will be hosted." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768" y="596" width="368" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---236" value="User is validated through SSO using AWS Cognito and Azure AD." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-766.62" y="655.25" width="387.5" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---237" value="letters will be uploaded to S3 through Amplify" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tkWagDDuJBjmrLa6oy---237" value="Letters will be uploaded to S3 through Amplify" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-768" y="707.16" width="357.5" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---238" value="Lambda request for logos will be through IBM DPGW" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
