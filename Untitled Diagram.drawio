@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T11:17:48.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="tBIj8rCiB1OjqYk_IquY" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T11:21:44.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="DRTOWpRR1mP3F-VnpxQK" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
-    <mxGraphModel dx="4180" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4593" dy="2707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -369,55 +369,55 @@
           <mxGeometry x="316" y="819.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---224" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1099" y="-8" width="539" height="1220" as="geometry" />
+          <mxGeometry x="926" y="507" width="521" height="420" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---225" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1117" y="4" width="40" height="38" as="geometry" />
+          <mxGeometry x="944" y="527" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---226" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1115.5" y="126" width="40" height="38" as="geometry" />
+          <mxGeometry x="944" y="577" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---227" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1115.5" y="246" width="40" height="38" as="geometry" />
+          <mxGeometry x="945" y="631.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---228" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1115.5" y="360" width="40" height="38" as="geometry" />
+          <mxGeometry x="945" y="681.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---229" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1117" y="477" width="40" height="38" as="geometry" />
+          <mxGeometry x="945" y="732.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---230" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1118" y="592" width="40" height="38" as="geometry" />
+          <mxGeometry x="944" y="780" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---231" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1117.5" y="708" width="40" height="38" as="geometry" />
+          <mxGeometry x="945" y="830.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---232" value="8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1118" y="764" width="40" height="38" as="geometry" />
+          <mxGeometry x="946" y="876" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---234" value="Users should be logged in" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1168.5" y="3.5" width="449" height="118" as="geometry" />
+          <mxGeometry x="994.5" y="537" width="449" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---235" value="logged In request will come to AWS Amplify on that UI component will be hosted." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1167.5" y="126.5" width="450" height="115" as="geometry" />
+          <mxGeometry x="995" y="577" width="450" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---236" value="User is validated through SSO using AWS Cognito and Azure AD." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1167.5" y="244.5" width="450" height="117" as="geometry" />
+          <mxGeometry x="994.5" y="638.5" width="450" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---237" value="letters would be uploaded to S3." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1167.5" y="360.5" width="450" height="121" as="geometry" />
+          <mxGeometry x="994.5" y="687.5" width="450" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---238" value="Lambda request for logos through API gateway" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1168.5" y="477.5" width="449" height="114" as="geometry" />
+          <mxGeometry x="994.5" y="736" width="449" height="31" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---239" value="Logos get send to QC engine for processing the logos through IBM DPGW and firewall." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1168.5" y="593.5" width="450" height="118" as="geometry" />
+          <mxGeometry x="993.5" y="778" width="450" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="tkWagDDuJBjmrLa6oy---240" value="Custom code in Fargate pulls letters from S3 and validate each letter with respect to the logos and rules saved in Dynamo." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1168.5" y="708.5" width="449" height="113" as="geometry" />
+        <mxCell id="tkWagDDuJBjmrLa6oy---240" value="Custom code in Fargate pulls letters from S3 and validate each letter with respect to the logos and rules saved in DynamoDB." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="993.5" y="829.5" width="449" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---241" value="QC results will be stored in DynamoDB" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1168.5" y="765.5" width="449" height="124" as="geometry" />
+          <mxGeometry x="995.5" y="876" width="449" height="31" as="geometry" />
         </mxCell>
         <mxCell id="tkWagDDuJBjmrLa6oy---245" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-281" y="326.5" width="31" height="38" as="geometry" />
