@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T14:58:15.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="FvPt2-Qgufd6m4YTrHH6" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T14:58:58.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="jPTsyquvjeptDkdgPcL9" version="14.6.9" type="github">
   <diagram id="YhWdgm1e61Hx2CCkoLfR" name="Page-1">
     <mxGraphModel dx="2940" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -420,7 +420,7 @@
           <mxGeometry x="544.35" y="709" width="45.65" height="45.65" as="geometry" />
         </mxCell>
         <mxCell id="MRXcTDHPOcL2j5iJYsbO-1" value="EPOK API gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-277.49999999999994" y="279.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="-329.99999999999994" y="262" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MRXcTDHPOcL2j5iJYsbO-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tkWagDDuJBjmrLa6oy---128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -429,7 +429,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MRXcTDHPOcL2j5iJYsbO-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="1">
-          <mxGeometry x="-261" y="208" width="70" height="70" as="geometry" />
+          <mxGeometry x="-262.5" y="199.5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MRXcTDHPOcL2j5iJYsbO-7" value="Extract logos/images" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-379.12" y="194" width="121.06" height="20" as="geometry" />
